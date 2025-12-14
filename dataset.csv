@@ -1,0 +1,301 @@
+Medication,Age,Gender,BMI,SurgeryType,SurgeryDuration,AnesthesiaType,PreoperativeNotes,PostoperativeNotes,PainLevel,Complications,Outcome
+204,58,M,30,Cardiovascular,179 min,General,"Stable, no allergies","Minimal pain, no complications",3,Delayed recovery,Cluster_2
+267,58,M,23,Cardiovascular,117 min,General,"Stable, no allergies","Pain, slow recovery",7,Delayed recovery,Cluster_2
+153,72,M,28,Cardiovascular,169 min,Local,"Stable, no allergies","Pain, slow recovery",6,,Cluster_2
+10,58,M,28,Cosmetic,207 min,General,"Stable, no allergies","Minimal pain, no complications",6,Respiratory distress,Cluster_1
+234,58,M,23,Orthopedic,94 min,General,"Stable, no allergies","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_2
+227,45,M,23,Neurological,80 min,General,"Hypertension, diabetes","Pain, slow recovery",7,Respiratory distress,Cluster_2
+197,51,M,30,Cosmetic,173 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,Delayed recovery,Cluster_2
+110,45,M,32,Cardiovascular,118 min,Local,"Stable, no allergies","Minimal pain, no complications",6,"Nausea, mild bleeding",Cluster_1
+6,45,M,32,Neurological,82 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,,Cluster_1
+176,65,F,26,Orthopedic,198 min,General,"Stable, no allergies","Pain, slow recovery",2,"Nausea, mild bleeding",Cluster_2
+238,51,F,28,Cardiovascular,199 min,Local,"Stable, no allergies","Pain, slow recovery",4,,Cluster_2
+58,51,M,23,Cosmetic,184 min,General,"Stable, no allergies","Pain, slow recovery",3,"Nausea, mild bleeding",Cluster_1
+219,65,F,26,Orthopedic,176 min,General,"Hypertension, diabetes","Pain, slow recovery",2,"Nausea, mild bleeding",Cluster_2
+46,45,M,30,Neurological,79 min,Local,"Hypertension, diabetes","Pain, slow recovery",4,Delayed recovery,Cluster_1
+183,33,M,26,Neurological,124 min,Local,"Stable, no allergies","Pain, slow recovery",4,,Cluster_2
+222,58,F,28,Cardiovascular,188 min,Local,"Hypertension, diabetes","Pain, slow recovery",3,"Nausea, mild bleeding",Cluster_2
+290,65,M,28,Cosmetic,79 min,General,"Stable, no allergies","Pain, slow recovery",3,Respiratory distress,Cluster_2
+212,51,M,26,Neurological,118 min,Local,"Hypertension, diabetes","Minimal pain, no complications",2,Respiratory distress,Cluster_2
+149,65,M,30,Cardiovascular,102 min,Local,"Hypertension, diabetes","Pain, slow recovery",4,Delayed recovery,Cluster_1
+166,58,F,32,Cosmetic,145 min,Local,"Stable, no allergies","Minimal pain, no complications",3,,Cluster_2
+79,33,M,26,Cosmetic,176 min,General,"Stable, no allergies","Pain, slow recovery",2,Respiratory distress,Cluster_1
+114,45,F,24,Orthopedic,113 min,Local,"Stable, no allergies","Pain, slow recovery",5,"Nausea, mild bleeding",Cluster_1
+250,45,M,32,Cardiovascular,107 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,,Cluster_2
+251,51,M,26,Cosmetic,162 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,,Cluster_2
+105,65,F,26,Cardiovascular,93 min,General,"Hypertension, diabetes","Minimal pain, no complications",3,Delayed recovery,Cluster_1
+43,58,F,24,Orthopedic,183 min,General,"Hypertension, diabetes","Pain, slow recovery",5,"Nausea, mild bleeding",Cluster_1
+282,65,M,26,Cardiovascular,237 min,General,"Stable, no allergies","Pain, slow recovery",5,Delayed recovery,Cluster_2
+296,33,M,23,Neurological,187 min,General,"Stable, no allergies","Pain, slow recovery",6,"Nausea, mild bleeding",Cluster_2
+158,33,M,26,Neurological,197 min,Local,"Stable, no allergies","Minimal pain, no complications",2,Respiratory distress,Cluster_2
+239,65,F,23,Neurological,229 min,General,"Stable, no allergies","Minimal pain, no complications",6,Respiratory distress,Cluster_2
+18,65,F,26,Cardiovascular,199 min,General,"Hypertension, diabetes","Minimal pain, no complications",5,Respiratory distress,Cluster_1
+165,58,M,23,Neurological,136 min,Local,"Stable, no allergies","Minimal pain, no complications",2,"Nausea, mild bleeding",Cluster_2
+34,72,F,30,Neurological,75 min,Local,"Stable, no allergies","Minimal pain, no complications",7,,Cluster_1
+25,72,M,26,Orthopedic,133 min,General,"Hypertension, diabetes","Pain, slow recovery",7,,Cluster_1
+216,65,F,28,Cardiovascular,101 min,Local,"Stable, no allergies","Minimal pain, no complications",6,,Cluster_2
+120,72,F,23,Cosmetic,125 min,General,"Hypertension, diabetes","Pain, slow recovery",6,Delayed recovery,Cluster_1
+8,33,M,24,Orthopedic,210 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,Respiratory distress,Cluster_1
+91,58,F,32,Cardiovascular,178 min,Local,"Hypertension, diabetes","Pain, slow recovery",5,,Cluster_1
+47,58,M,23,Orthopedic,122 min,General,"Stable, no allergies","Minimal pain, no complications",3,,Cluster_1
+74,58,F,30,Orthopedic,217 min,General,"Stable, no allergies","Minimal pain, no complications",7,Respiratory distress,Cluster_1
+94,51,M,23,Neurological,168 min,General,"Stable, no allergies","Pain, slow recovery",4,"Nausea, mild bleeding",Cluster_1
+77,51,M,23,Orthopedic,105 min,Local,"Hypertension, diabetes","Pain, slow recovery",4,Delayed recovery,Cluster_1
+287,65,M,24,Cardiovascular,122 min,General,"Stable, no allergies","Pain, slow recovery",4,Respiratory distress,Cluster_2
+61,33,M,24,Cosmetic,210 min,General,"Stable, no allergies","Minimal pain, no complications",2,"Nausea, mild bleeding",Cluster_1
+78,45,F,30,Cardiovascular,206 min,General,"Stable, no allergies","Minimal pain, no complications",3,Respiratory distress,Cluster_1
+64,33,M,28,Cardiovascular,187 min,General,"Stable, no allergies","Minimal pain, no complications",7,Delayed recovery,Cluster_1
+235,33,F,26,Orthopedic,114 min,General,"Hypertension, diabetes","Pain, slow recovery",4,Respiratory distress,Cluster_2
+230,72,F,26,Cosmetic,102 min,Local,"Hypertension, diabetes","Minimal pain, no complications",2,Respiratory distress,Cluster_2
+112,72,M,26,Neurological,145 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,Delayed recovery,Cluster_1
+232,72,F,30,Cardiovascular,230 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,"Nausea, mild bleeding",Cluster_2
+181,33,M,23,Cosmetic,70 min,Local,"Hypertension, diabetes","Minimal pain, no complications",5,,Cluster_2
+145,45,F,30,Cosmetic,91 min,Local,"Hypertension, diabetes","Pain, slow recovery",3,Delayed recovery,Cluster_1
+240,72,F,30,Cosmetic,96 min,General,"Stable, no allergies","Minimal pain, no complications",6,Delayed recovery,Cluster_2
+76,72,M,30,Cosmetic,168 min,Local,"Hypertension, diabetes","Minimal pain, no complications",5,,Cluster_1
+298,65,M,32,Cardiovascular,63 min,Local,"Stable, no allergies","Pain, slow recovery",2,Respiratory distress,Cluster_2
+279,45,F,23,Cosmetic,81 min,Local,"Stable, no allergies","Pain, slow recovery",4,"Nausea, mild bleeding",Cluster_2
+98,45,F,24,Orthopedic,86 min,Local,"Hypertension, diabetes","Minimal pain, no complications",6,"Nausea, mild bleeding",Cluster_1
+93,65,M,30,Cosmetic,193 min,General,"Hypertension, diabetes","Pain, slow recovery",6,Respiratory distress,Cluster_1
+193,51,F,32,Cardiovascular,192 min,General,"Hypertension, diabetes","Minimal pain, no complications",2,Respiratory distress,Cluster_2
+26,51,M,28,Neurological,139 min,Local,"Stable, no allergies","Minimal pain, no complications",6,"Nausea, mild bleeding",Cluster_1
+233,65,F,23,Orthopedic,167 min,Local,"Hypertension, diabetes","Pain, slow recovery",5,"Nausea, mild bleeding",Cluster_2
+60,33,M,30,Neurological,84 min,Local,"Hypertension, diabetes","Minimal pain, no complications",6,,Cluster_1
+7,51,F,30,Cardiovascular,96 min,Local,"Stable, no allergies","Pain, slow recovery",4,Delayed recovery,Cluster_1
+186,58,M,28,Neurological,68 min,Local,"Hypertension, diabetes","Pain, slow recovery",2,"Nausea, mild bleeding",Cluster_2
+174,51,M,32,Orthopedic,238 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_2
+31,33,F,26,Neurological,185 min,General,"Hypertension, diabetes","Minimal pain, no complications",7,"Nausea, mild bleeding",Cluster_1
+23,58,F,28,Orthopedic,63 min,Local,"Stable, no allergies","Pain, slow recovery",3,,Cluster_1
+257,33,F,32,Neurological,91 min,Local,"Stable, no allergies","Minimal pain, no complications",3,"Nausea, mild bleeding",Cluster_2
+57,65,F,28,Orthopedic,100 min,Local,"Hypertension, diabetes","Minimal pain, no complications",5,Respiratory distress,Cluster_1
+187,45,M,30,Orthopedic,95 min,Local,"Stable, no allergies","Pain, slow recovery",4,Respiratory distress,Cluster_2
+109,65,F,32,Cardiovascular,62 min,General,"Stable, no allergies","Pain, slow recovery",7,Respiratory distress,Cluster_1
+127,65,F,30,Orthopedic,232 min,Local,"Stable, no allergies","Pain, slow recovery",5,"Nausea, mild bleeding",Cluster_1
+231,65,F,26,Orthopedic,60 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_2
+194,45,F,28,Orthopedic,67 min,General,"Hypertension, diabetes","Minimal pain, no complications",7,,Cluster_2
+130,58,M,23,Neurological,88 min,General,"Stable, no allergies","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_1
+283,72,F,26,Cosmetic,70 min,Local,"Hypertension, diabetes","Pain, slow recovery",5,Respiratory distress,Cluster_2
+83,72,M,32,Cosmetic,97 min,Local,"Hypertension, diabetes","Pain, slow recovery",3,,Cluster_1
+85,72,F,24,Cosmetic,63 min,Local,"Hypertension, diabetes","Pain, slow recovery",7,Respiratory distress,Cluster_1
+67,45,F,24,Cosmetic,178 min,General,"Stable, no allergies","Minimal pain, no complications",5,"Nausea, mild bleeding",Cluster_1
+289,72,M,28,Neurological,90 min,Local,"Stable, no allergies","Pain, slow recovery",3,"Nausea, mild bleeding",Cluster_2
+164,72,F,30,Neurological,134 min,Local,"Stable, no allergies","Pain, slow recovery",4,Respiratory distress,Cluster_2
+155,58,M,23,Cardiovascular,117 min,General,"Hypertension, diabetes","Pain, slow recovery",4,,Cluster_2
+20,51,M,32,Neurological,91 min,Local,"Stable, no allergies","Minimal pain, no complications",4,Delayed recovery,Cluster_1
+125,58,M,32,Cosmetic,96 min,General,"Stable, no allergies","Pain, slow recovery",6,Respiratory distress,Cluster_1
+80,58,M,24,Cosmetic,223 min,Local,"Stable, no allergies","Minimal pain, no complications",6,Respiratory distress,Cluster_1
+115,65,F,24,Cosmetic,195 min,General,"Stable, no allergies","Pain, slow recovery",7,Delayed recovery,Cluster_1
+119,65,M,26,Orthopedic,108 min,Local,"Stable, no allergies","Pain, slow recovery",5,,Cluster_1
+73,72,M,24,Orthopedic,220 min,Local,"Stable, no allergies","Minimal pain, no complications",2,"Nausea, mild bleeding",Cluster_1
+16,72,F,23,Cardiovascular,188 min,General,"Hypertension, diabetes","Minimal pain, no complications",2,Respiratory distress,Cluster_1
+11,33,F,28,Neurological,118 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,Respiratory distress,Cluster_1
+195,65,M,24,Neurological,142 min,General,"Hypertension, diabetes","Minimal pain, no complications",3,Respiratory distress,Cluster_2
+102,51,M,26,Orthopedic,99 min,Local,"Hypertension, diabetes","Pain, slow recovery",7,,Cluster_1
+69,45,M,32,Orthopedic,114 min,Local,"Hypertension, diabetes","Pain, slow recovery",3,Delayed recovery,Cluster_1
+225,33,F,26,Cardiovascular,61 min,General,"Stable, no allergies","Minimal pain, no complications",6,"Nausea, mild bleeding",Cluster_2
+38,33,F,30,Neurological,105 min,Local,"Stable, no allergies","Minimal pain, no complications",3,"Nausea, mild bleeding",Cluster_1
+17,72,F,30,Neurological,215 min,General,"Hypertension, diabetes","Minimal pain, no complications",3,"Nausea, mild bleeding",Cluster_1
+180,72,F,26,Cardiovascular,176 min,Local,"Stable, no allergies","Pain, slow recovery",3,"Nausea, mild bleeding",Cluster_2
+148,45,M,32,Cardiovascular,152 min,Local,"Stable, no allergies","Minimal pain, no complications",3,"Nausea, mild bleeding",Cluster_1
+275,58,M,32,Cosmetic,138 min,General,"Hypertension, diabetes","Pain, slow recovery",6,,Cluster_2
+68,45,F,23,Cosmetic,214 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,,Cluster_1
+229,45,M,28,Cardiovascular,147 min,Local,"Hypertension, diabetes","Pain, slow recovery",5,Delayed recovery,Cluster_2
+70,51,M,24,Cosmetic,181 min,General,"Stable, no allergies","Minimal pain, no complications",3,Delayed recovery,Cluster_1
+32,58,M,32,Cardiovascular,105 min,Local,"Stable, no allergies","Pain, slow recovery",3,Respiratory distress,Cluster_1
+184,33,M,30,Orthopedic,190 min,General,"Stable, no allergies","Pain, slow recovery",3,,Cluster_2
+266,51,M,23,Cosmetic,145 min,General,"Stable, no allergies","Pain, slow recovery",4,Delayed recovery,Cluster_2
+226,45,F,23,Cosmetic,73 min,General,"Stable, no allergies","Minimal pain, no complications",4,Delayed recovery,Cluster_2
+141,72,M,26,Cosmetic,168 min,Local,"Stable, no allergies","Pain, slow recovery",6,"Nausea, mild bleeding",Cluster_1
+19,33,F,26,Orthopedic,119 min,General,"Stable, no allergies","Pain, slow recovery",5,Respiratory distress,Cluster_1
+182,72,F,26,Cosmetic,199 min,General,"Stable, no allergies","Minimal pain, no complications",7,Delayed recovery,Cluster_2
+97,33,M,26,Cardiovascular,163 min,Local,"Hypertension, diabetes","Minimal pain, no complications",2,"Nausea, mild bleeding",Cluster_1
+133,65,F,28,Cosmetic,149 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,Delayed recovery,Cluster_1
+263,51,M,24,Cosmetic,66 min,General,"Hypertension, diabetes","Pain, slow recovery",5,Delayed recovery,Cluster_2
+87,72,M,28,Cosmetic,227 min,General,"Stable, no allergies","Pain, slow recovery",5,"Nausea, mild bleeding",Cluster_1
+249,72,F,26,Orthopedic,160 min,Local,"Hypertension, diabetes","Minimal pain, no complications",7,Respiratory distress,Cluster_2
+246,65,F,23,Cardiovascular,93 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,,Cluster_2
+117,65,M,24,Cardiovascular,155 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,"Nausea, mild bleeding",Cluster_1
+147,45,F,32,Cosmetic,67 min,General,"Stable, no allergies","Pain, slow recovery",2,,Cluster_1
+293,58,M,28,Cosmetic,203 min,Local,"Hypertension, diabetes","Pain, slow recovery",5,"Nausea, mild bleeding",Cluster_2
+198,33,F,28,Neurological,234 min,Local,"Hypertension, diabetes","Pain, slow recovery",2,"Nausea, mild bleeding",Cluster_2
+207,33,M,23,Neurological,226 min,Local,"Hypertension, diabetes","Minimal pain, no complications",6,"Nausea, mild bleeding",Cluster_2
+56,33,F,23,Cardiovascular,152 min,Local,"Stable, no allergies","Pain, slow recovery",3,,Cluster_1
+173,65,M,24,Orthopedic,100 min,Local,"Stable, no allergies","Minimal pain, no complications",3,,Cluster_2
+185,58,F,26,Orthopedic,169 min,Local,"Hypertension, diabetes","Pain, slow recovery",5,"Nausea, mild bleeding",Cluster_2
+168,33,F,24,Orthopedic,166 min,General,"Hypertension, diabetes","Minimal pain, no complications",5,Respiratory distress,Cluster_2
+140,72,F,24,Neurological,120 min,General,"Stable, no allergies","Minimal pain, no complications",3,"Nausea, mild bleeding",Cluster_1
+254,65,F,28,Cardiovascular,236 min,Local,"Stable, no allergies","Pain, slow recovery",7,,Cluster_2
+39,33,M,26,Cosmetic,68 min,General,"Hypertension, diabetes","Pain, slow recovery",3,Delayed recovery,Cluster_1
+126,33,F,28,Cardiovascular,224 min,Local,"Stable, no allergies","Pain, slow recovery",5,Delayed recovery,Cluster_1
+196,45,F,28,Neurological,146 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,Respiratory distress,Cluster_2
+284,51,F,28,Neurological,95 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,Respiratory distress,Cluster_2
+138,72,M,32,Cosmetic,231 min,Local,"Stable, no allergies","Minimal pain, no complications",7,"Nausea, mild bleeding",Cluster_1
+113,33,F,24,Cosmetic,161 min,General,"Stable, no allergies","Minimal pain, no complications",2,,Cluster_1
+169,65,F,24,Cosmetic,215 min,Local,"Stable, no allergies","Minimal pain, no complications",2,,Cluster_2
+118,72,F,32,Cosmetic,235 min,General,"Hypertension, diabetes","Minimal pain, no complications",3,Respiratory distress,Cluster_1
+278,65,F,28,Neurological,181 min,General,"Stable, no allergies","Pain, slow recovery",7,Respiratory distress,Cluster_2
+272,58,F,28,Cardiovascular,86 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_2
+156,33,M,32,Cardiovascular,136 min,Local,"Stable, no allergies","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_2
+177,45,F,23,Orthopedic,64 min,Local,"Stable, no allergies","Minimal pain, no complications",4,Respiratory distress,Cluster_2
+179,72,F,30,Cardiovascular,67 min,General,"Hypertension, diabetes","Minimal pain, no complications",2,Delayed recovery,Cluster_2
+3,58,F,24,Orthopedic,79 min,General,"Stable, no allergies","Minimal pain, no complications",3,"Nausea, mild bleeding",Cluster_1
+116,72,F,24,Orthopedic,181 min,General,"Hypertension, diabetes","Pain, slow recovery",7,,Cluster_1
+144,65,M,26,Cardiovascular,84 min,General,"Stable, no allergies","Minimal pain, no complications",4,,Cluster_1
+178,45,F,26,Cardiovascular,117 min,General,"Stable, no allergies","Minimal pain, no complications",3,Respiratory distress,Cluster_2
+121,51,F,28,Orthopedic,229 min,General,"Hypertension, diabetes","Pain, slow recovery",3,,Cluster_1
+211,33,M,28,Cosmetic,169 min,General,"Hypertension, diabetes","Minimal pain, no complications",5,"Nausea, mild bleeding",Cluster_2
+261,45,F,28,Cosmetic,178 min,Local,"Stable, no allergies","Minimal pain, no complications",3,Delayed recovery,Cluster_2
+128,45,F,23,Cosmetic,135 min,General,"Stable, no allergies","Minimal pain, no complications",2,Respiratory distress,Cluster_1
+75,45,F,30,Cosmetic,92 min,Local,"Stable, no allergies","Minimal pain, no complications",6,"Nausea, mild bleeding",Cluster_1
+30,33,F,24,Neurological,188 min,Local,"Hypertension, diabetes","Pain, slow recovery",3,Delayed recovery,Cluster_1
+84,72,F,23,Orthopedic,139 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,Delayed recovery,Cluster_1
+270,51,F,32,Neurological,167 min,General,"Hypertension, diabetes","Pain, slow recovery",2,"Nausea, mild bleeding",Cluster_2
+108,33,F,24,Cosmetic,120 min,General,"Hypertension, diabetes","Pain, slow recovery",6,,Cluster_1
+224,45,M,28,Cosmetic,90 min,General,"Hypertension, diabetes","Minimal pain, no complications",3,"Nausea, mild bleeding",Cluster_2
+159,51,M,30,Neurological,169 min,Local,"Stable, no allergies","Pain, slow recovery",4,,Cluster_2
+281,65,M,26,Neurological,166 min,Local,"Stable, no allergies","Pain, slow recovery",4,"Nausea, mild bleeding",Cluster_2
+247,58,M,24,Orthopedic,105 min,General,"Hypertension, diabetes","Minimal pain, no complications",6,Delayed recovery,Cluster_2
+223,58,M,32,Cardiovascular,198 min,General,"Hypertension, diabetes","Pain, slow recovery",7,Respiratory distress,Cluster_2
+66,51,F,24,Cardiovascular,197 min,Local,"Hypertension, diabetes","Pain, slow recovery",2,,Cluster_1
+199,33,M,28,Orthopedic,225 min,General,"Stable, no allergies","Pain, slow recovery",4,Delayed recovery,Cluster_2
+86,65,F,32,Orthopedic,127 min,General,"Stable, no allergies","Pain, slow recovery",5,Delayed recovery,Cluster_1
+214,65,F,24,Cosmetic,106 min,Local,"Hypertension, diabetes","Pain, slow recovery",5,Delayed recovery,Cluster_2
+160,51,M,32,Orthopedic,115 min,General,"Hypertension, diabetes","Pain, slow recovery",7,Respiratory distress,Cluster_2
+13,72,M,30,Neurological,116 min,General,"Hypertension, diabetes","Minimal pain, no complications",6,"Nausea, mild bleeding",Cluster_1
+36,45,F,24,Orthopedic,183 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,"Nausea, mild bleeding",Cluster_1
+29,45,F,26,Cosmetic,199 min,General,"Hypertension, diabetes","Minimal pain, no complications",7,Delayed recovery,Cluster_1
+143,51,M,28,Cosmetic,240 min,Local,"Stable, no allergies","Pain, slow recovery",4,Respiratory distress,Cluster_1
+285,51,F,24,Orthopedic,142 min,Local,"Stable, no allergies","Pain, slow recovery",6,"Nausea, mild bleeding",Cluster_2
+255,51,F,26,Cardiovascular,126 min,General,"Stable, no allergies","Pain, slow recovery",7,,Cluster_2
+171,33,M,24,Orthopedic,106 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,Respiratory distress,Cluster_2
+52,72,F,24,Orthopedic,215 min,General,"Hypertension, diabetes","Pain, slow recovery",3,Respiratory distress,Cluster_1
+96,65,F,23,Cardiovascular,99 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,Respiratory distress,Cluster_1
+209,58,M,32,Cardiovascular,80 min,Local,"Stable, no allergies","Pain, slow recovery",2,Delayed recovery,Cluster_2
+248,45,M,28,Orthopedic,86 min,Local,"Hypertension, diabetes","Pain, slow recovery",3,,Cluster_2
+42,58,M,32,Cosmetic,117 min,General,"Stable, no allergies","Pain, slow recovery",7,Delayed recovery,Cluster_1
+90,58,F,26,Cosmetic,123 min,General,"Stable, no allergies","Minimal pain, no complications",2,Delayed recovery,Cluster_1
+245,51,M,24,Orthopedic,165 min,Local,"Hypertension, diabetes","Pain, slow recovery",2,Delayed recovery,Cluster_2
+137,72,F,28,Cosmetic,80 min,General,"Stable, no allergies","Minimal pain, no complications",6,Respiratory distress,Cluster_1
+27,72,M,23,Cosmetic,188 min,General,"Hypertension, diabetes","Minimal pain, no complications",6,Delayed recovery,Cluster_1
+294,65,M,28,Neurological,126 min,Local,"Stable, no allergies","Pain, slow recovery",4,Respiratory distress,Cluster_2
+142,33,M,32,Orthopedic,195 min,Local,"Stable, no allergies","Minimal pain, no complications",3,Respiratory distress,Cluster_1
+201,58,F,24,Cardiovascular,90 min,General,"Stable, no allergies","Pain, slow recovery",5,,Cluster_2
+1,33,M,32,Neurological,217 min,Local,"Hypertension, diabetes","Minimal pain, no complications",7,,Cluster_1
+269,51,M,30,Neurological,97 min,Local,"Stable, no allergies","Minimal pain, no complications",5,,Cluster_2
+273,72,F,32,Cardiovascular,170 min,General,"Hypertension, diabetes","Minimal pain, no complications",6,Delayed recovery,Cluster_2
+101,51,M,30,Cosmetic,182 min,General,"Hypertension, diabetes","Pain, slow recovery",7,,Cluster_1
+260,33,M,28,Orthopedic,167 min,Local,"Hypertension, diabetes","Pain, slow recovery",3,,Cluster_2
+256,58,F,30,Cosmetic,214 min,General,"Hypertension, diabetes","Minimal pain, no complications",5,Respiratory distress,Cluster_2
+172,45,F,24,Neurological,102 min,Local,"Stable, no allergies","Minimal pain, no complications",5,"Nausea, mild bleeding",Cluster_2
+99,33,M,30,Cosmetic,128 min,Local,"Hypertension, diabetes","Pain, slow recovery",4,"Nausea, mild bleeding",Cluster_1
+37,65,M,28,Cardiovascular,205 min,General,"Hypertension, diabetes","Pain, slow recovery",7,Respiratory distress,Cluster_1
+62,45,M,32,Cardiovascular,203 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,,Cluster_1
+151,65,F,23,Neurological,218 min,General,"Hypertension, diabetes","Pain, slow recovery",3,Delayed recovery,Cluster_2
+237,45,F,32,Cosmetic,204 min,Local,"Hypertension, diabetes","Pain, slow recovery",4,"Nausea, mild bleeding",Cluster_2
+203,58,M,23,Cardiovascular,81 min,Local,"Stable, no allergies","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_2
+243,72,M,26,Orthopedic,119 min,Local,"Stable, no allergies","Minimal pain, no complications",7,Delayed recovery,Cluster_2
+12,33,M,32,Orthopedic,171 min,General,"Stable, no allergies","Minimal pain, no complications",2,,Cluster_1
+297,33,M,26,Orthopedic,71 min,Local,"Stable, no allergies","Pain, slow recovery",6,"Nausea, mild bleeding",Cluster_2
+268,72,F,28,Neurological,180 min,General,"Stable, no allergies","Minimal pain, no complications",6,Delayed recovery,Cluster_2
+28,45,F,23,Cosmetic,200 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_1
+220,65,F,26,Cosmetic,183 min,Local,"Stable, no allergies","Pain, slow recovery",3,"Nausea, mild bleeding",Cluster_2
+5,65,M,28,Neurological,221 min,General,"Stable, no allergies","Pain, slow recovery",5,Respiratory distress,Cluster_1
+123,45,F,30,Cosmetic,173 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,Respiratory distress,Cluster_1
+33,58,F,26,Cardiovascular,153 min,Local,"Stable, no allergies","Minimal pain, no complications",2,,Cluster_1
+205,72,M,23,Neurological,81 min,Local,"Hypertension, diabetes","Minimal pain, no complications",5,"Nausea, mild bleeding",Cluster_2
+163,58,M,32,Orthopedic,198 min,General,"Hypertension, diabetes","Minimal pain, no complications",3,Respiratory distress,Cluster_2
+210,72,F,30,Cardiovascular,114 min,General,"Stable, no allergies","Pain, slow recovery",7,"Nausea, mild bleeding",Cluster_2
+286,65,F,32,Cosmetic,153 min,Local,"Stable, no allergies","Pain, slow recovery",7,,Cluster_2
+139,65,M,26,Orthopedic,207 min,General,"Stable, no allergies","Pain, slow recovery",7,Delayed recovery,Cluster_1
+63,33,M,26,Cardiovascular,123 min,General,"Stable, no allergies","Pain, slow recovery",2,Respiratory distress,Cluster_1
+136,72,F,26,Neurological,115 min,Local,"Stable, no allergies","Pain, slow recovery",5,Delayed recovery,Cluster_1
+129,58,F,32,Neurological,186 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,,Cluster_1
+291,58,F,24,Cardiovascular,153 min,General,"Stable, no allergies","Pain, slow recovery",6,,Cluster_2
+9,45,F,32,Cosmetic,226 min,Local,"Stable, no allergies","Minimal pain, no complications",4,Delayed recovery,Cluster_1
+71,51,M,32,Orthopedic,195 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,Delayed recovery,Cluster_1
+265,65,F,30,Orthopedic,193 min,General,"Hypertension, diabetes","Pain, slow recovery",7,Respiratory distress,Cluster_2
+65,45,M,26,Neurological,216 min,Local,"Hypertension, diabetes","Minimal pain, no complications",2,,Cluster_1
+45,51,M,30,Orthopedic,112 min,General,"Stable, no allergies","Minimal pain, no complications",7,Delayed recovery,Cluster_1
+280,45,M,26,Cosmetic,80 min,Local,"Stable, no allergies","Minimal pain, no complications",7,"Nausea, mild bleeding",Cluster_2
+157,65,F,32,Neurological,223 min,General,"Stable, no allergies","Pain, slow recovery",7,"Nausea, mild bleeding",Cluster_2
+41,58,F,26,Orthopedic,79 min,Local,"Stable, no allergies","Pain, slow recovery",3,,Cluster_1
+124,45,M,32,Neurological,207 min,General,"Hypertension, diabetes","Pain, slow recovery",3,Respiratory distress,Cluster_1
+276,58,F,28,Cardiovascular,84 min,Local,"Stable, no allergies","Minimal pain, no complications",7,Delayed recovery,Cluster_2
+217,72,M,26,Neurological,120 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,,Cluster_2
+154,58,F,28,Neurological,95 min,General,"Hypertension, diabetes","Pain, slow recovery",6,Respiratory distress,Cluster_2
+24,51,M,28,Cardiovascular,128 min,General,"Hypertension, diabetes","Minimal pain, no complications",2,,Cluster_1
+262,58,M,23,Cosmetic,148 min,General,"Stable, no allergies","Pain, slow recovery",4,,Cluster_2
+111,72,M,24,Orthopedic,160 min,General,"Stable, no allergies","Pain, slow recovery",5,Delayed recovery,Cluster_1
+82,65,M,26,Cardiovascular,224 min,General,"Stable, no allergies","Pain, slow recovery",7,Respiratory distress,Cluster_1
+208,51,M,24,Cosmetic,210 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_2
+213,33,F,24,Cardiovascular,218 min,Local,"Stable, no allergies","Pain, slow recovery",4,Respiratory distress,Cluster_2
+40,58,M,24,Orthopedic,72 min,General,"Hypertension, diabetes","Pain, slow recovery",4,Respiratory distress,Cluster_1
+241,51,F,32,Cosmetic,169 min,General,"Hypertension, diabetes","Minimal pain, no complications",3,,Cluster_2
+292,33,M,28,Cardiovascular,166 min,Local,"Hypertension, diabetes","Minimal pain, no complications",6,Respiratory distress,Cluster_2
+259,72,F,28,Neurological,94 min,General,"Hypertension, diabetes","Pain, slow recovery",7,,Cluster_2
+200,65,M,24,Orthopedic,226 min,Local,"Hypertension, diabetes","Pain, slow recovery",2,Delayed recovery,Cluster_2
+15,33,M,26,Cardiovascular,156 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,Delayed recovery,Cluster_1
+48,65,M,30,Cardiovascular,163 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,Delayed recovery,Cluster_1
+95,45,M,28,Cardiovascular,198 min,Local,"Hypertension, diabetes","Pain, slow recovery",4,,Cluster_1
+264,58,M,23,Cardiovascular,180 min,General,"Hypertension, diabetes","Pain, slow recovery",5,Respiratory distress,Cluster_2
+228,51,M,26,Neurological,105 min,General,"Stable, no allergies","Minimal pain, no complications",4,,Cluster_2
+274,51,M,30,Cosmetic,134 min,Local,"Hypertension, diabetes","Pain, slow recovery",3,,Cluster_2
+202,58,M,28,Orthopedic,180 min,Local,"Stable, no allergies","Minimal pain, no complications",6,"Nausea, mild bleeding",Cluster_2
+162,51,F,32,Orthopedic,197 min,General,"Stable, no allergies","Minimal pain, no complications",2,Delayed recovery,Cluster_2
+44,51,F,28,Cosmetic,162 min,Local,"Hypertension, diabetes","Pain, slow recovery",4,Respiratory distress,Cluster_1
+218,65,M,30,Cardiovascular,145 min,Local,"Hypertension, diabetes","Minimal pain, no complications",7,Respiratory distress,Cluster_2
+146,51,F,26,Cosmetic,223 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,Respiratory distress,Cluster_1
+191,51,M,24,Neurological,186 min,General,"Stable, no allergies","Minimal pain, no complications",4,Respiratory distress,Cluster_2
+221,65,M,32,Cosmetic,97 min,General,"Stable, no allergies","Minimal pain, no complications",3,Delayed recovery,Cluster_2
+252,58,F,24,Cardiovascular,102 min,Local,"Hypertension, diabetes","Minimal pain, no complications",5,,Cluster_2
+4,65,F,26,Orthopedic,210 min,Local,"Stable, no allergies","Pain, slow recovery",7,Delayed recovery,Cluster_1
+106,58,F,28,Cardiovascular,187 min,Local,"Hypertension, diabetes","Minimal pain, no complications",2,"Nausea, mild bleeding",Cluster_1
+54,33,M,30,Neurological,136 min,Local,"Stable, no allergies","Minimal pain, no complications",7,"Nausea, mild bleeding",Cluster_1
+134,58,M,23,Cardiovascular,116 min,Local,"Hypertension, diabetes","Minimal pain, no complications",4,,Cluster_1
+2,33,M,23,Cardiovascular,181 min,Local,"Stable, no allergies","Minimal pain, no complications",7,"Nausea, mild bleeding",Cluster_1
+132,58,M,26,Cosmetic,224 min,General,"Hypertension, diabetes","Pain, slow recovery",6,"Nausea, mild bleeding",Cluster_1
+104,65,M,24,Orthopedic,177 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,Delayed recovery,Cluster_1
+50,51,F,26,Cardiovascular,240 min,General,"Stable, no allergies","Minimal pain, no complications",6,Delayed recovery,Cluster_1
+81,33,F,28,Cosmetic,150 min,Local,"Stable, no allergies","Pain, slow recovery",4,,Cluster_1
+206,51,F,30,Orthopedic,219 min,General,"Stable, no allergies","Minimal pain, no complications",3,"Nausea, mild bleeding",Cluster_2
+35,33,M,23,Orthopedic,103 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,"Nausea, mild bleeding",Cluster_1
+92,45,M,32,Cosmetic,125 min,General,"Hypertension, diabetes","Pain, slow recovery",5,Respiratory distress,Cluster_1
+53,65,F,24,Orthopedic,100 min,General,"Stable, no allergies","Pain, slow recovery",5,Respiratory distress,Cluster_1
+242,72,F,30,Neurological,181 min,General,"Hypertension, diabetes","Minimal pain, no complications",4,,Cluster_2
+14,65,M,26,Neurological,231 min,General,"Stable, no allergies","Pain, slow recovery",5,Respiratory distress,Cluster_1
+89,65,M,26,Cardiovascular,172 min,Local,"Stable, no allergies","Minimal pain, no complications",3,Delayed recovery,Cluster_1
+167,72,M,23,Cosmetic,70 min,General,"Stable, no allergies","Minimal pain, no complications",4,Delayed recovery,Cluster_2
+295,51,F,23,Orthopedic,66 min,General,"Hypertension, diabetes","Minimal pain, no complications",5,"Nausea, mild bleeding",Cluster_2
+135,72,M,30,Neurological,175 min,General,"Hypertension, diabetes","Minimal pain, no complications",7,,Cluster_1
+288,45,M,23,Cardiovascular,182 min,General,"Stable, no allergies","Minimal pain, no complications",5,Respiratory distress,Cluster_2
+244,58,F,26,Neurological,192 min,Local,"Stable, no allergies","Pain, slow recovery",6,Respiratory distress,Cluster_2
+55,65,M,30,Cardiovascular,205 min,Local,"Stable, no allergies","Pain, slow recovery",6,Delayed recovery,Cluster_1
+51,51,F,30,Cardiovascular,189 min,Local,"Hypertension, diabetes","Pain, slow recovery",5,"Nausea, mild bleeding",Cluster_1
+175,45,M,23,Orthopedic,94 min,General,"Hypertension, diabetes","Pain, slow recovery",4,"Nausea, mild bleeding",Cluster_2
+190,72,F,28,Cosmetic,115 min,General,"Hypertension, diabetes","Minimal pain, no complications",2,,Cluster_2
+299,58,F,23,Orthopedic,123 min,Local,"Stable, no allergies","Pain, slow recovery",5,Respiratory distress,Cluster_2
+188,45,F,23,Cosmetic,75 min,General,"Stable, no allergies","Pain, slow recovery",4,Respiratory distress,Cluster_2
+170,45,F,28,Orthopedic,69 min,General,"Hypertension, diabetes","Minimal pain, no complications",6,Respiratory distress,Cluster_2
+59,72,M,23,Orthopedic,180 min,Local,"Hypertension, diabetes","Minimal pain, no complications",2,Respiratory distress,Cluster_1
+49,33,M,28,Cosmetic,187 min,General,"Hypertension, diabetes","Pain, slow recovery",7,Delayed recovery,Cluster_1
+236,33,M,26,Cosmetic,121 min,General,"Hypertension, diabetes","Pain, slow recovery",7,Delayed recovery,Cluster_2
+253,51,F,32,Neurological,113 min,General,"Hypertension, diabetes","Minimal pain, no complications",7,"Nausea, mild bleeding",Cluster_2
+22,51,F,30,Neurological,192 min,Local,"Hypertension, diabetes","Minimal pain, no complications",6,Respiratory distress,Cluster_1
+161,58,F,30,Cosmetic,114 min,Local,"Hypertension, diabetes","Pain, slow recovery",2,,Cluster_2
+277,45,M,24,Orthopedic,165 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,Respiratory distress,Cluster_2
+192,45,M,24,Orthopedic,235 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,Respiratory distress,Cluster_2
+258,58,M,26,Neurological,73 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,,Cluster_2
+150,72,M,30,Cardiovascular,76 min,General,"Hypertension, diabetes","Minimal pain, no complications",7,"Nausea, mild bleeding",Cluster_2
+131,65,M,30,Orthopedic,94 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,Respiratory distress,Cluster_1
+152,58,F,23,Cosmetic,224 min,General,"Hypertension, diabetes","Pain, slow recovery",7,"Nausea, mild bleeding",Cluster_2
+100,45,F,28,Neurological,103 min,General,"Hypertension, diabetes","Minimal pain, no complications",2,Respiratory distress,Cluster_1
+88,58,F,23,Cardiovascular,81 min,General,"Hypertension, diabetes","Minimal pain, no complications",6,Respiratory distress,Cluster_1
+215,72,M,24,Orthopedic,68 min,General,"Stable, no allergies","Pain, slow recovery",7,,Cluster_2
+122,33,M,26,Cardiovascular,220 min,Local,"Hypertension, diabetes","Minimal pain, no complications",3,,Cluster_1
+300,33,F,23,Neurological,135 min,General,"Stable, no allergies","Minimal pain, no complications",4,"Nausea, mild bleeding",Cluster_2
+21,45,F,24,Orthopedic,127 min,General,"Stable, no allergies","Pain, slow recovery",5,"Nausea, mild bleeding",Cluster_1
+189,65,F,28,Neurological,147 min,General,"Hypertension, diabetes","Minimal pain, no complications",5,,Cluster_2
+72,45,M,28,Orthopedic,197 min,Local,"Hypertension, diabetes","Pain, slow recovery",6,Respiratory distress,Cluster_1
+107,72,F,23,Orthopedic,192 min,Local,"Stable, no allergies","Pain, slow recovery",2,Respiratory distress,Cluster_1
+271,45,F,28,Neurological,77 min,General,"Hypertension, diabetes","Minimal pain, no complications",3,,Cluster_2
+103,58,M,23,Cardiovascular,187 min,General,"Hypertension, diabetes","Minimal pain, no complications",2,,Cluster_1
